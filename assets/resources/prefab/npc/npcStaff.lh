@@ -1,0 +1,32 @@
+{
+  "_$ver": 1,
+  "_$id": "d60pi76j",
+  "_$type": "Sprite",
+  "name": "Sprite",
+  "width": 44,
+  "height": 45,
+  "texture": {
+    "_$uuid": "ce821b48-af07-4cc1-bcab-98d96ea1eb5d",
+    "_$type": "Texture"
+  },
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "type": "kinematic",
+      "linearVelocity": {
+        "_$type": "Vector2",
+        "y": 100
+      },
+      "group": -2,
+      "label": ""
+    },
+    {
+      "_$id": "jin0",
+      "_$type": "BoxCollider",
+      "friction": 0,
+      "label": "monst",
+      "width": 44,
+      "height": 45
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resolution": {
+    "designWidth": 800,
+    "designHeight": 1420,
+    "scaleMode": "fixedwidth",
+    "screenMode": "vertical",
+    "backgroundColor": "rgba(33, 33, 33, 1)"
+  },
+  "modules": {
+    "laya.d3": false,
+    "laya.ui": true,
+    "laya.physics2D": true,
+    "laya.ani": true,
+    "laya.particle": true
+  },
+  "splash": {
+    "enabled": false,
+    "fit": "center"
+  },
+  "stat": true
+}

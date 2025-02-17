@@ -1,0 +1,34 @@
+{
+  "_$ver": 1,
+  "_$id": "4f8w20be",
+  "_$type": "Sprite",
+  "name": "a108(1)",
+  "x": 382,
+  "y": 576,
+  "width": 10,
+  "height": 18,
+  "texture": {
+    "_$uuid": "f04137d4-b973-4064-a2ec-b5576b8b5783",
+    "_$type": "Texture"
+  },
+  "_$comp": [
+    {
+      "_$type": "RigidBody",
+      "gravityScale": -2,
+      "group": -1
+    },
+    {
+      "_$id": "cyc6",
+      "_$type": "BoxCollider",
+      "friction": 0,
+      "label": "bullet_user",
+      "width": 10,
+      "height": 20
+    },
+    {
+      "_$type": "fda5f9a9-3cde-451f-a4f6-0de90b42efb9",
+      "scriptPath": "../src/bullet/bullet_user.ts",
+      "text": ""
+    }
+  ]
+}

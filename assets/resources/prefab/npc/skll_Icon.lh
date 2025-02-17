@@ -1,0 +1,29 @@
+{
+  "_$ver": 1,
+  "_$id": "5aa4g7od",
+  "_$type": "Sprite",
+  "name": "skll1",
+  "x": 152,
+  "y": 39,
+  "width": 56,
+  "height": 56,
+  "texture": {
+    "_$uuid": "73740177-6c3f-4b32-89c9-4304a8068c4c",
+    "_$type": "Texture"
+  },
+  "_$child": [
+    {
+      "_$id": "13c7tskr",
+      "_$type": "Sprite",
+      "name": "icon",
+      "x": -2,
+      "y": -2,
+      "width": 60,
+      "height": 60,
+      "texture": {
+        "_$uuid": "840f331a-53ba-4fdf-bd18-2b6fae3ca3a2",
+        "_$type": "Texture"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_$ver": 1,
+  "_$id": "sea1anar",
+  "_$type": "Sprite",
+  "name": "Sprite",
+  "width": 50,
+  "height": 80,
+  "_$child": [
+    {
+      "_$id": "g6wclaei",
+      "_$type": "Sprite",
+      "name": "body",
+      "x": 4,
+      "y": -1,
+      "width": 42,
+      "height": 82,
+      "texture": {
+        "_$uuid": "e3625208-3e87-4f56-aaa7-ac1c935de451",
+        "_$type": "Texture"
+      }
+    }
+  ]
+}

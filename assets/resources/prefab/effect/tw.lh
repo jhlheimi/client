@@ -1,0 +1,21 @@
+{
+  "_$ver": 1,
+  "_$id": "1mt7jetx",
+  "_$type": "Animation",
+  "name": "Animation",
+  "width": 80,
+  "height": 80,
+  "images": [
+    "res://bf7559cb-eba5-448a-9531-8af27c921e58",
+    "res://f41b3d58-5bcf-41fa-b40e-6ecde2b88d82",
+    "res://632a5ed5-b1f4-42c9-91c1-c13b9c1b2498",
+    "res://838d40e4-8e34-497a-94b6-03142a350231",
+    "res://f67d6566-4002-4bbf-9dad-90af0cd670ca",
+    "res://6aa2a3e9-095a-4219-a512-5d0d737829bd",
+    "res://6fbeb5d6-d9a3-477f-93c8-f21e90267c46"
+  ],
+  "interval": 50,
+  "autoPlay": true,
+  "loop": false,
+  "index": 6
+}

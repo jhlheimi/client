@@ -1,0 +1,126 @@
+{
+  "frames": {
+    "baoza_1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 161,
+        "y": 202,
+        "w": 35,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 31
+      }
+    },
+    "baoza_2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 197,
+        "w": 90,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7
+      }
+    },
+    "baoza_3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 102,
+        "w": 97,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4
+      }
+    },
+    "baoza_4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 99,
+        "y": 102,
+        "w": 92,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2
+      }
+    },
+    "baoza_5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 100,
+        "y": 0,
+        "w": 97,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "baoza_6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "baoza_7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 92,
+        "y": 202,
+        "w": 67,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 17
+      }
+    }
+  },
+  "meta": {
+    "scale": 1
+  }
+}

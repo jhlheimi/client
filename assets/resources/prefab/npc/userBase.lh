@@ -1,0 +1,115 @@
+{
+  "_$ver": 1,
+  "_$id": "ap0c0vji",
+  "_$type": "Box",
+  "name": "Box",
+  "width": 800,
+  "height": 162,
+  "_mouseState": 2,
+  "_$comp": [
+    {
+      "_$type": "58d4e5bb-54e4-42d3-8599-8f7823c331a8",
+      "scriptPath": "../src/ui/UserBase.ts",
+      "text": "",
+      "skll1": {
+        "_$ref": "a7myjdot"
+      },
+      "skll2": {
+        "_$ref": "3nz7ccf6"
+      },
+      "skll3": {
+        "_$ref": "tqhzuws6"
+      },
+      "skll4": {
+        "_$ref": "lbvbfjk0"
+      }
+    }
+  ],
+  "_$child": [
+    {
+      "_$id": "j97zohik",
+      "_$type": "Image",
+      "name": "fighterBase",
+      "width": 800,
+      "height": 162,
+      "skin": "res://e012e22a-cea9-4764-a0f7-8327a620650e",
+      "useSourceSize": true,
+      "color": "#ffffff"
+    },
+    {
+      "_$id": "enpopmbb",
+      "_$type": "Sprite",
+      "name": "Sprite",
+      "x": 240,
+      "y": 23,
+      "width": 275,
+      "height": 24,
+      "texture": {
+        "_$uuid": "872de842-c2df-4dba-96c0-15d3d21c59cd",
+        "_$type": "Texture"
+      }
+    },
+    {
+      "_$id": "4mj3ogth",
+      "_$type": "Text",
+      "name": "Text",
+      "x": 250,
+      "y": 82,
+      "width": 120,
+      "height": 22,
+      "text": "属性:\n",
+      "fontSize": 20,
+      "color": "rgba(196, 158, 118, 1)",
+      "leading": 2
+    },
+    {
+      "_$id": "a3yyvm7g",
+      "_$type": "Text",
+      "name": "Text(1)",
+      "x": 303,
+      "y": 82,
+      "width": 120,
+      "height": 22,
+      "text": "999\n\n",
+      "fontSize": 20,
+      "color": "#FFFFFF",
+      "leading": 2
+    },
+    {
+      "_$id": "a7myjdot",
+      "_$prefab": "e0423944-d26d-4810-891e-ee80d511ce81",
+      "name": "skll1",
+      "active": true,
+      "x": 152,
+      "y": 39,
+      "visible": true
+    },
+    {
+      "_$id": "3nz7ccf6",
+      "_$prefab": "e0423944-d26d-4810-891e-ee80d511ce81",
+      "name": "skll2",
+      "active": true,
+      "x": 594,
+      "y": 39,
+      "visible": true
+    },
+    {
+      "_$id": "tqhzuws6",
+      "_$prefab": "e0423944-d26d-4810-891e-ee80d511ce81",
+      "name": "skll3",
+      "active": true,
+      "x": 44,
+      "y": 72,
+      "visible": true
+    },
+    {
+      "_$id": "lbvbfjk0",
+      "_$prefab": "e0423944-d26d-4810-891e-ee80d511ce81",
+      "name": "skll4",
+      "active": true,
+      "x": 705,
+      "y": 73,
+      "visible": true
+    }
+  ]
+}
